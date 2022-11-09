@@ -55,4 +55,8 @@ namespace JsonParser
             return pair.Key.GetHashCode();
         }
     }
+    public sealed class GitStore
+    {
+        public const string ID = "git://";
+    }
 }
