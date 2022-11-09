@@ -44,7 +44,7 @@ namespace JsonParser
             await Console.Out.WriteLineAsync(JsonConvert.SerializeObject(collection));
         }
     }
-    public struct KeysEqualityComparer : IEqualityComparer<KeyValuePair<string, string>>
+    public readonly struct KeysEqualityComparer : IEqualityComparer<KeyValuePair<string, string>>
     {
         public bool Equals(KeyValuePair<string, string> pair1, KeyValuePair<string, string> pair2)
         {
