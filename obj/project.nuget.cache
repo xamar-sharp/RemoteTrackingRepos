@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqpakuGSpD+3P9GAe05hOjD+2t1eDSRipMMv5J0b48+2SvoButa0C5wCkpcUg/BIpx5IPtvUVKm+4WJtvOGBUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HighLoad\\Source\\Repos\\JsonParser\\JsonParser\\JsonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HighLoad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
